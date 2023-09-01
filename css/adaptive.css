@@ -1,0 +1,310 @@
+@media all and (max-width: 1280px) {
+    .instruction__item_end-img {
+        right: 27%;
+    }
+    .price {
+        padding: 120px 50px;
+    }
+    .banner__vector {
+        margin-left: 12%;
+    }
+    .banner__coffee {
+        right: -17%;
+    }
+    .banner__title {
+        font-size: 45px;
+    }
+    .map {
+        padding: 120px 64px;
+    }
+    .services__icon_bachgr-white {
+        width: 25%;
+    }
+    .services {
+        padding: 120px 60px;
+    }
+    .banner2 {
+        padding: 80px 128px 0px 95px;
+    }
+    .questions {
+        padding: 120px 150px;
+    }
+    .map2 {
+        padding: 120px 87px;
+    }
+    .contact {
+        padding: 96px 100px;
+    }
+    .contact__right_btn {
+        width: 60%;
+    }
+    .contact__left_block > p {
+        margin: 2% 0;
+    }
+    .contact__right_checkbox-container > p {
+        font-size: 22px;
+    }
+}
+@media all and (max-width:376px) {
+    header {
+        padding: 20px 16px;
+    }
+    .header__logo {
+        width: 35%;
+    }
+    .hero__title {
+        font-size: 40px;
+        width: 76%; 
+    }
+    .hero__desc {
+        width: 85%;
+        text-align: center;
+    }
+    .hero__badge {
+        width: 70%;
+        flex-direction: column;
+    }
+    .hero__qr {
+        width: 93%;
+        padding: 0;
+        text-align: center;
+    }
+    .instruction {
+        padding: 60px 24px;
+    }
+    .instruction__item_number {
+        margin-right: 8px;
+        width: 101px; 
+    }
+    #instruction__item_number_2 {
+        width: 92px;
+    }
+    #instruction__item_number_3 {
+        width: 147px;
+    }
+    .instruction__title {
+        font-size: 40px; 
+    }
+    .instruction__item_desc {
+        margin-top: 8px;
+    }
+    .instruction__item_title {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    .instruction__item_img {
+        padding: 0 ;
+        width: 84%; 
+    }
+    .instruction__item_end-desc {
+        padding: 20px;
+        font-size: 38px;
+    }
+    .instruction__item_end-img {
+        top: 68%;
+        right: -6%;
+    }
+    .price {
+        padding: 120px 25px;
+    }
+    .price__title {
+        font-size: 35px;
+    }
+    .price__card {
+        flex-direction: column;
+        width: 100%;
+    }
+    .price__info_title-container {
+        flex-direction: column;
+    }
+    .price__info_title {
+        font-size: 38px;
+    }
+    .price__info_desc {
+        font-size: 20px;
+    }
+    .price__download {
+        width: 65%;
+    }
+    .price__download_title {
+        font-size: 34px;
+        text-align: center;
+        margin-bottom: 12%;
+    }
+    .price__download_btn {
+        flex-direction: column;
+    }
+    .price__info_container {
+        margin-bottom: 11%;
+    }
+    .banner {
+        padding: 80px 24px;
+        height: 63%;
+        overflow: hidden;
+        flex-direction: column;
+    }
+    .banner__right {
+        z-index: 1;
+    }
+    .banner__left {
+        z-index: 0;
+        display: none;
+    }
+    .banner__lift_logo {
+        width: 100%;
+        margin-bottom: 64%;
+        
+    }
+    .banner__coffee {
+        right: -100%;
+        top: -128%;
+    }
+    .banner__title {
+        font-size: 36px;
+    }
+    .banner__left_phone {
+        display: flex;
+        position: absolute;
+        top: 466%;
+
+    }
+    .price__card {
+        padding: 0;
+    }
+    .banner__desc {
+        font-size: 35px;
+    }
+    .map {
+        padding: 80px 24px;
+    }
+    .map__title {
+        font-size: 32px;
+        margin: 0;
+        text-align: left;
+        margin-bottom: 15%;
+    }
+    .map__container {
+        flex-direction: column;
+    }
+    .map__card_backgr {
+        display: flex;
+        width: 45%;
+    }
+    .map__img {
+        margin-top: 10%;
+        width: 100%;
+    }
+    .map__card_backgr {
+        flex-direction: row;
+        align-items: center;
+    }
+    .services {
+        padding: 80px 24px;
+    }
+    .services__title {
+        font-size: 42px;
+    }
+    .services__icon_bachgr-white {
+        width: 85%;
+    }
+    .services__list_title {
+        margin: 6% 0;
+    }
+    .banner2 {
+        padding: 80px 24px 0px 24px;
+        flex-direction: column;
+        overflow: hidden;
+        height: 840px;
+    }
+    .banner2__right {
+        top: 46%;
+        right: -35%;
+    }
+    .banner2__left {
+        width: 100%;
+        z-index: 1;
+    }
+    .banner2__header {
+        font-size: 36px;
+        margin: 0;
+    }
+    .banner2__desc {
+        margin: 6% 0;
+    }
+    .banner2__btn {
+        margin-top: 5%;
+        padding: 20px 100px;
+        font-size: 20px;
+    }
+    .questions {
+        padding: 80px 24px;
+    }
+    .questions__header {
+        font-size: 39px;
+        margin-bottom: 40px;
+    }
+    .questions__item {
+        margin: 5% 0;
+    }
+    .questions__item > button {
+        width: 10%;
+        padding-left: 2px;
+    }
+    .questions__btn {
+        margin-left: 0;
+    }
+    .map2 {
+        flex-direction: column;
+        padding: 80px 24px;
+    }
+    .map2__left_title {
+        font-size: 31px;
+        margin: 0 0 10% 0;
+    }
+    .map2__left_btn {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .map2__left_qr {
+        width: 45%;
+    }
+    .map2__google-map {
+        width: 100%;
+    }
+    .contact {
+        flex-direction: column;
+        padding: 80px 24px;
+    }  
+    .contact__left_logo {
+        width: 35%;
+    } 
+    .contact__left {
+        width: 100%;
+    }
+    .contact__left_header > h4 {
+        font-size: 31px;
+    }
+    .contact__right {
+        width: 100%;
+    }
+    .contact__right_checkbox-container > p {
+        font-size: 17px;
+        margin-left: 2%;
+    }
+    .contact__right_btn {
+        width: 100%;
+    }
+    footer {
+        padding: 56px 24px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 18px;
+        height: 18%;
+    }
+    .map__card {
+        width: 100%;
+    }
+    .map__card_backgr {
+        width: 80%;
+    }
+}
