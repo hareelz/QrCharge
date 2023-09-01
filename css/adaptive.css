@@ -45,7 +45,7 @@
         font-size: 22px;
     }
 }
-@media all and (max-width:376px) {
+@media all and (max-width:375px) {
     header {
         padding: 20px 16px;
     }
@@ -139,7 +139,7 @@
     }
     .banner {
         padding: 80px 24px;
-        height: 63%;
+        height: 37%;
         overflow: hidden;
         flex-direction: column;
     }
@@ -165,7 +165,7 @@
     .banner__left_phone {
         display: flex;
         position: absolute;
-        top: 466%;
+        top: 259%;
 
     }
     .price__card {
@@ -299,7 +299,7 @@
         flex-direction: column;
         align-items: flex-start;
         gap: 18px;
-        height: 18%;
+        height: 14%;
     }
     .map__card {
         width: 100%;
